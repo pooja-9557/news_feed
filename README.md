@@ -1,21 +1,25 @@
 
 Flutter News Feed App- 
-This Flutter application features two screens: a splash screen and a news feed screen. The news feed screen displays a list of news articles fetched using a public News API.
+This Flutter application features two screens: 
+1)splash screen and a news feed screen.
+2)The news feed screen displays a list of news articles fetched using a public News API.
 
-Instructions
+Instructions->
 Setup
 Download and Open: Download the project folder and open it in Android Studio or Visual Studio Code.
 
-NewsAPI Key: Obtain your API key from NewsAPI( https://newsapi.org/ ). Insert the key into the news_feed.dart file.
+NewsAPI Key: Obtain your API key from NewsAPI( https://newsapi.org/ ).
 
-In news_feed.dart file change api key with your key.
-final String apiUrl = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=ADD_YOUR_KEY_HERE';
+In news_feed.dart file change api key with your key-> 
+final String apiUrl = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=ADD_YOUR_KEY_HERE',
 Replace ADD_YOUR_KEY_HERE with your NewsAPI key.
 
 Running the App
-Configure Emulator/Device: Launch your preferred emulator or connect your physical device.
+Configure Emulator/Device:
+Launch your preferred emulator or connect your physical device.
 
-Run the Application: Use the following command in the terminal from the project root directory:
+Run the Application:
+Use the following command in the terminal from the project root directory:
 
 Note
 Ensure you've inserted your NewsAPI key in the designated location within the news_feed.dart file to fetch news data.
