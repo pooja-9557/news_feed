@@ -25,8 +25,10 @@ Note
 Ensure you've inserted your NewsAPI key in the designated location within the news_feed.dart file to fetch news data.
 
 The application contains a splash screen and a news feed screen. Check the respective files for code and design details.
+![screen](https://github.com/pooja-9557/news_feed/assets/94179112/75ac8284-abbd-44a0-9d85-2fce037121d2)
 
 Access the NewsAPI documentation here for more information on their endpoints and usage.
+
 
 Steps Recap:
 Download the project folder.
