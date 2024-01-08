@@ -1,5 +1,5 @@
 
-Flutter News Feed App
+Flutter News Feed App- 
 This Flutter application features two screens: a splash screen and a news feed screen. The news feed screen displays a list of news articles fetched using a public News API.
 
 Instructions
