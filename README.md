@@ -4,7 +4,11 @@ This Flutter application features two screens:
 1)splash screen and a news feed screen.
 2)The news feed screen displays a list of news articles fetched using a public News API.
 
-Uploading Screenrecorder-2024-01-08-13-01-44-36.mp4…
+
+
+
+https://github.com/pooja-9557/news_feed/assets/94179112/f3c1c2e6-f864-42fc-9536-a797cdb0de19
+
 
 Instructions->
 
